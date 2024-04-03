@@ -1,0 +1,14 @@
+# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+train: '../recc_vlog2_v2/train'
+val: '../recc_vlog2_v2/valid'
+
+# Classes
+names:
+  0: 'start'
+  1: 'start_stop'
+  2: 'alarm_k0039'
+  3: 'func_key'
+  4: 'act_g0013'
+  5: 'act_g0014'
+  6: 'arrow_key'
+  7: 'alarm_k0038'
