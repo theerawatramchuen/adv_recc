@@ -1,4 +1,5 @@
 # adv_recc
 ## Advance Remote Equipement Control Center
 ### Installation package requirement yolov8
-pip install ultralytics
+pip install ultralytics </b>
+pip install opencv-python </b>
