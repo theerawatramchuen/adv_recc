@@ -1,4 +1,4 @@
 # adv_recc
 ## Advance Remote Equipement Control Center
-### Installation yolov8
+### Installation package requirement yolov8
 pip install ultralytics
